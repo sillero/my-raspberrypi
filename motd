@@ -10,8 +10,7 @@
 Useful commands:
 
  sudo rpi-update
- sudo rpi-update 224 (max system)
- sudo rpi-update 128 (half-split)
+ sudo rpi-update 224 (memory split w/ max performance)
  sudo raspi-config
  sudo apt-get update && sudo apt-get upgrade
 ---------------------------------------------------------------------
