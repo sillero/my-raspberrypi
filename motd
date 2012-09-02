@@ -1,0 +1,21 @@
+
+
+   _ \                       |                                _ \  _) 
+  |   |   _` |   __|  __ \   __ \    _ \   __|   __|  |   |  |   |  | 
+  __ <   (   | \__ \  |   |  |   |   __/  |     |     |   |  ___/   | 
+ _| \_\ \__,_| ____/  .__/  _.__/  \___| _|    _|    \__, | _|     _| 
+                     _|                              ____/            
+
+---------------------------------------------------------------------
+Useful commands:
+
+ sudo rpi-update
+ sudo rpi-update 224 (max system)
+ sudo rpi-update 128 (half-split)
+ sudo raspi-config
+ sudo apt-get update && sudo apt-get upgrade
+---------------------------------------------------------------------
+
+Have a nice day ;)
+
+ 
